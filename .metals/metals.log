@@ -1,0 +1,253 @@
+2024.12.12 20:48:32 INFO  Started: Metals version 1.4.1 in folders '/Users/joyhaldar/Documents/GitHub/LogTracer' for client Visual Studio Code 1.95.3.
+2024.12.12 20:48:32 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.12 20:48:32 INFO  Attempting to connect to the build server...
+2024.12.12 20:48:32 INFO  Found a Bloop server running
+2024.12.12 20:48:32 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/joyhaldar/Documents/GitHub/LogTracer/.metals/bsp.trace.json or /Users/joyhaldar/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.12.12 20:48:32 INFO  time: Connected to build server in 0.15s
+2024.12.12 20:48:32 INFO  Connected to Build server: Bloop v2.0.5
+2024.12.12 20:48:32 INFO  running doctor check
+2024.12.12 20:48:32 INFO  java targets: 
+2024.12.12 20:48:33 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.12 20:48:33 INFO  time: indexed workspace in 1.23s
+2024.12.12 20:48:34 WARN  no build target for: /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/Main.scala
+2024.12.12 20:48:33 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:48:55 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:48:55 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:49:07 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:49:07 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:49:07 WARN  no build target for: /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/Main.scala
+2024.12.12 20:49:07 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:49:12 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:49:13 INFO  Detected new build tool in /Users/joyhaldar/Documents/GitHub/LogTracer
+2024.12.12 20:49:13 INFO  Disconnecting from Bloop session...
+2024.12.12 20:49:13 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:49:13 INFO  Shut down connection with build server.
+2024.12.12 20:49:13 INFO  Attempting to connect to the build server...
+2024.12.12 20:49:13 INFO  Found a Bloop server running
+2024.12.12 20:49:13 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/joyhaldar/Documents/GitHub/LogTracer/.metals/bsp.trace.json or /Users/joyhaldar/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.12.12 20:49:13 INFO  time: Connected to build server in 0.12s
+2024.12.12 20:49:13 INFO  Connected to Build server: Bloop v2.0.5
+2024.12.12 20:49:13 INFO  running doctor check
+2024.12.12 20:49:13 INFO  java targets: 
+2024.12.12 20:49:13 INFO  time: indexed workspace in 0.66s
+2024.12.12 20:49:13 WARN  no build target for: /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/Main.scala
+2024.12.12 20:49:13 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:49:13 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:50:19 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:50:19 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:50:19 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:50:19 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:50:19 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:50:20 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:50:20 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:50:20 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:50:20 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:51:12 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+Dec 12, 2024 8:52:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.12.12 20:52:56 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:52:57 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:53:12 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:53:53 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:53:53 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:53:53 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:53:55 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:53:55 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:53:55 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:53:56 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:54:06 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:54:06 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:55:56 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:55:56 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:55:56 WARN  no build target for: /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala
+2024.12.12 20:55:56 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:55:56 WARN  Could not find semantic tokens for: file:///Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala
+2024.12.12 20:55:56 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:55:56 WARN  Could not find semantic tokens for: file:///Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala
+2024.12.12 20:56:03 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:56:04 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:56:04 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:56:04 WARN  no build target for: /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala
+2024.12.12 20:56:04 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:56:04 WARN  no build target for: /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala
+2024.12.12 20:56:04 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:56:04 WARN  no build target for: /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala
+2024.12.12 20:56:04 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:56:04 WARN  no build target for: /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala
+2024.12.12 20:56:04 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:56:04 WARN  no build target for: /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala
+2024.12.12 20:56:05 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:56:04 WARN  no build target for: /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala
+2024.12.12 20:56:04 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:56:06 WARN  no build target for: /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala
+2024.12.12 20:56:06 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:56:06 WARN  no build target for: /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala
+2024.12.12 20:56:06 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:56:19 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:56:19 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:56:19 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:56:20 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:56:20 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:56:20 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:56:21 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:56:21 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:56:21 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:56:21 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:56:22 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:56:22 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:56:22 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:56:22 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:56:22 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:56:22 WARN  no build target for: /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala
+2024.12.12 20:56:23 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:56:23 WARN  no build target for: /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala
+2024.12.12 20:56:23 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:56:23 WARN  no build target for: /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala
+2024.12.12 20:56:23 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:56:24 WARN  no build target for: /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala
+2024.12.12 20:56:24 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:57:02 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:57:02 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:57:02 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:57:02 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:57:03 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:57:03 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:57:03 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:57:04 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:57:03 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:57:04 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:57:37 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:57:37 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:57:38 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:57:37 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:57:37 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:57:38 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:57:38 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:57:38 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:57:40 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:57:40 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:57:40 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:57:48 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:57:49 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:57:49 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:57:50 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:57:51 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:57:51 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:57:52 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:57:52 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:57:53 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:57:53 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:57:52 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:58:53 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/utils/JsonSupport.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:58:53 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/utils/JsonSupport.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:58:53 WARN  no build target for: /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/utils/JsonSupport.scala
+2024.12.12 20:58:53 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/utils/JsonSupport.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:58:53 WARN  Could not find semantic tokens for: file:///Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/utils/JsonSupport.scala
+2024.12.12 20:58:53 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/utils/JsonSupport.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:58:53 WARN  Could not find semantic tokens for: file:///Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/utils/JsonSupport.scala
+2024.12.12 20:59:00 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/utils/JsonSupport.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:59:00 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/utils/JsonSupport.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:59:00 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/utils/JsonSupport.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:59:01 WARN  no build target for: /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/utils/JsonSupport.scala
+2024.12.12 20:59:01 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/utils/JsonSupport.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:59:01 WARN  no build target for: /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/utils/JsonSupport.scala
+2024.12.12 20:59:01 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/utils/JsonSupport.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:59:01 WARN  no build target for: /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/utils/JsonSupport.scala
+2024.12.12 20:59:01 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/utils/JsonSupport.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:59:11 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:59:11 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:59:11 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:59:13 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:59:13 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:59:14 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:59:14 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:59:15 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:59:15 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:59:15 WARN  no build target for: /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala
+2024.12.12 20:59:15 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:59:15 WARN  no build target for: /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala
+2024.12.12 20:59:15 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:59:16 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:59:16 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:59:19 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:00:02 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/routes/HelloWorldRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:00:12 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:00:12 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:00:12 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:00:12 WARN  Could not find semantic tokens for: file:///Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/project/plugins.sbt
+2024.12.12 21:00:12 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:00:13 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:00:13 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:00:13 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:00:13 WARN  Could not find semantic tokens for: file:///Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/project/plugins.sbt
+2024.12.12 21:00:14 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:00:14 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:00:14 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:00:14 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:00:14 WARN  Could not find semantic tokens for: file:///Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/project/plugins.sbt
+2024.12.12 21:00:15 WARN  no build target for: /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/project/plugins.sbt
+2024.12.12 21:00:15 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:00:15 WARN  Could not find semantic tokens for: file:///Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/project/plugins.sbt
+2024.12.12 21:00:15 WARN  no build target for: /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/project/plugins.sbt
+2024.12.12 21:00:15 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:00:15 WARN  Could not find semantic tokens for: file:///Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/project/plugins.sbt
+2024.12.12 21:00:31 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:00:31 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:00:31 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:00:32 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:00:32 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:00:33 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:00:33 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:00:34 WARN  no build target for: /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt
+2024.12.12 21:00:34 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:00:35 WARN  no build target for: /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt
+2024.12.12 21:00:35 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:00:35 WARN  no build target for: /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt
+2024.12.12 21:00:35 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:00:35 WARN  no build target for: /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt
+2024.12.12 21:00:35 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:01:33 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:01:33 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:01:35 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:01:35 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:01:37 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:02:35 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:02:35 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:02:35 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:02:36 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:02:36 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:02:36 WARN  no build target for: /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt
+2024.12.12 21:02:37 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:02:37 WARN  no build target for: /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt
+2024.12.12 21:02:37 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:10:46 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:10:46 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:10:46 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:10:47 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:10:47 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:10:47 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:10:47 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:10:47 WARN  Could not find semantic tokens for: file:///Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt
+2024.12.12 21:10:47 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:10:47 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:10:47 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:10:48 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:10:48 WARN  Could not find semantic tokens for: file:///Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt
+2024.12.12 21:10:48 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:10:48 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:10:48 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:10:48 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:10:49 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:10:49 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:10:49 WARN  no build target for: /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt
+2024.12.12 21:10:49 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:10:49 WARN  no build target for: /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt
+2024.12.12 21:10:49 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:10:51 WARN  no build target for: /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt
+2024.12.12 21:10:51 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:10:51 WARN  no build target for: /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt
+2024.12.12 21:10:51 INFO  no build target found for /Users/joyhaldar/Documents/GitHub/LogTracer/log-tracer-akka-scala-seed/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 21:11:22 INFO  Shutting down server
+2024.12.12 21:11:22 INFO  shutting down Metals
+2024.12.12 21:11:22 INFO  Shut down connection with build server.
+2024.12.12 21:11:22 INFO  Exiting server

@@ -1,0 +1,167 @@
+{
+    "version": "1.4.0",
+    "project": {
+        "name": "kafka-cluster-test",
+        "directory": "/Users/joyhaldar/Documents/GitHub/LogTracer/kafka-cluster",
+        "workspaceDir": "/Users/joyhaldar/Documents/GitHub/LogTracer/kafka-cluster",
+        "sources": [
+            "/Users/joyhaldar/Documents/GitHub/LogTracer/kafka-cluster/src/test/scala",
+            "/Users/joyhaldar/Documents/GitHub/LogTracer/kafka-cluster/src/test/scala-2.12",
+            "/Users/joyhaldar/Documents/GitHub/LogTracer/kafka-cluster/src/test/scala-2",
+            "/Users/joyhaldar/Documents/GitHub/LogTracer/kafka-cluster/src/test/java",
+            "/Users/joyhaldar/Documents/GitHub/LogTracer/kafka-cluster/target/scala-2.12/src_managed/test"
+        ],
+        "dependencies": [
+            "kafka-cluster"
+        ],
+        "classpath": [
+            "/Users/joyhaldar/Documents/GitHub/LogTracer/kafka-cluster/.bloop/kafka-cluster/scala-2.12/classes",
+            "/Users/joyhaldar/.sbt/boot/scala-2.12.20/lib/scala-library.jar"
+        ],
+        "out": "/Users/joyhaldar/Documents/GitHub/LogTracer/kafka-cluster/.bloop/kafka-cluster",
+        "classesDir": "/Users/joyhaldar/Documents/GitHub/LogTracer/kafka-cluster/.bloop/kafka-cluster/scala-2.12/test-classes",
+        "resources": [
+            "/Users/joyhaldar/Documents/GitHub/LogTracer/kafka-cluster/src/test/resources",
+            "/Users/joyhaldar/Documents/GitHub/LogTracer/kafka-cluster/target/scala-2.12/resource_managed/test"
+        ],
+        "scala": {
+            "organization": "org.scala-lang",
+            "name": "scala-compiler",
+            "version": "2.12.20",
+            "options": [
+                
+            ],
+            "jars": [
+                "/Users/joyhaldar/.sbt/boot/scala-2.12.20/lib/scala-library.jar",
+                "/Users/joyhaldar/.sbt/boot/scala-2.12.20/lib/scala-compiler.jar",
+                "/Users/joyhaldar/.sbt/boot/scala-2.12.20/lib/scala-reflect.jar",
+                "/Users/joyhaldar/.sbt/boot/scala-2.12.20/lib/scala-xml_2.12-2.3.0.jar"
+            ],
+            "setup": {
+                "order": "mixed",
+                "addLibraryToBootClasspath": true,
+                "addCompilerToClasspath": false,
+                "addExtraJarsToClasspath": false,
+                "manageBootClasspath": true,
+                "filterLibraryFromClasspath": true
+            }
+        },
+        "java": {
+            "options": [
+                
+            ]
+        },
+        "test": {
+            "frameworks": [
+                {
+                    "names": [
+                        "org.scalacheck.ScalaCheckFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs2.runner.Specs2Framework",
+                        "org.specs2.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.scalatest.tools.Framework",
+                        "org.scalatest.tools.ScalaTestFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "com.novocode.junit.JUnitFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "munit.Framework"
+                    ]
+                },
+                {
+                    "names": [
+                        "zio.test.sbt.ZTestFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "weaver.framework.CatsEffect"
+                    ]
+                },
+                {
+                    "names": [
+                        "hedgehog.sbt.Framework"
+                    ]
+                }
+            ],
+            "options": {
+                "excludes": [
+                    
+                ],
+                "arguments": [
+                    
+                ]
+            }
+        },
+        "platform": {
+            "name": "jvm",
+            "config": {
+                "home": "/opt/homebrew/Cellar/openjdk/23.0.1/libexec/openjdk.jdk/Contents/Home",
+                "options": [
+                    "-Duser.dir=/Users/joyhaldar/Documents/GitHub/LogTracer/kafka-cluster"
+                ]
+            },
+            "mainClass": [
+                
+            ]
+        },
+        "resolution": {
+            "modules": [
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-library",
+                    "version": "2.12.20",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scala-library",
+                            "path": "/Users/joyhaldar/.sbt/boot/scala-2.12.20/lib/scala-library.jar"
+                        },
+                        {
+                            "name": "scala-library",
+                            "classifier": "sources",
+                            "path": "/Users/joyhaldar/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.20/scala-library-2.12.20-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-library",
+                    "version": "2.12.20",
+                    "configurations": "optional",
+                    "artifacts": [
+                        {
+                            "name": "scala-library",
+                            "path": "/Users/joyhaldar/.sbt/boot/scala-2.12.20/lib/scala-library.jar"
+                        },
+                        {
+                            "name": "scala-library",
+                            "classifier": "sources",
+                            "path": "/Users/joyhaldar/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.20/scala-library-2.12.20-sources.jar"
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": [
+            "test"
+        ]
+    }
+}

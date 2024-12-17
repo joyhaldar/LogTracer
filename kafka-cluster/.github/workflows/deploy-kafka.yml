@@ -1,0 +1,31 @@
+name: Deploy Kafka Infrastructure
+
+on:
+  push:
+    paths:
+      - "kafka-cluster/**"
+
+jobs:
+  deploy-kafka:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v3
+
+    - name: Set Up Kubectl
+      uses: azure/setup-kubectl@v3
+      with:
+        version: 'latest'
+
+    - name: Deploy Strimzi Operator
+      run: |
+        kubectl apply -f kafka-cluster/manifests/strimzi-install.yaml
+
+    - name: Deploy Kafka Cluster
+      run: |
+        kubectl apply -f kafka-cluster/manifests/kafka-cluster.yaml
+
+    - name: Deploy Kafdrop
+      run: |
+        kubectl apply -f kafka-cluster/monitoring/kafdrop-deployment.yaml

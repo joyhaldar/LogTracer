@@ -1,0 +1,43 @@
+# kubectl apply -f manifests/strimzi-install.yaml
+
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: kafka
+
+---
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: strimzi-cluster-operator
+  namespace: kafka
+  labels:
+    app: strimzi
+data:
+  STRIMZI_NAMESPACE: "*"
+
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: strimzi-cluster-operator
+  namespace: kafka
+  labels:
+    app: strimzi
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      name: strimzi-cluster-operator
+  template:
+    metadata:
+      labels:
+        name: strimzi-cluster-operator
+    spec:
+      containers:
+        - name: strimzi-cluster-operator
+          image: quay.io/strimzi/operator:latest
+          resources:
+            requests:
+              memory: "512Mi"
+              cpu: "250m"

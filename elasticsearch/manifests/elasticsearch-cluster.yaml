@@ -1,0 +1,78 @@
+# kubectl create namespace elasticsearch
+# kubectl apply -f elasticsearch/manifests/elasticsearch-cluster.yaml -n elasticsearch
+# kubectl get pods -n elasticsearch
+# kubectl describe pod elasticsearch-0 -n elasticsearch
+# kubectl get svc -n elasticsearch
+# kubectl port-forward service/elasticsearch 9200:9200 -n elasticsearch
+
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: elasticsearch
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: elasticsearch
+  namespace: elasticsearch
+  labels:
+    app: elasticsearch
+spec:
+  type: ClusterIP
+  ports:
+    - port: 9200
+      name: http
+    - port: 9300
+      name: transport
+  selector:
+    app: elasticsearch
+---
+apiVersion: apps/v1
+kind: StatefulSet
+metadata:
+  name: elasticsearch
+  namespace: elasticsearch
+  labels:
+    app: elasticsearch
+spec:
+  serviceName: elasticsearch
+  replicas: 3  # Change to 1 for single-node setup
+  selector:
+    matchLabels:
+      app: elasticsearch
+  template:
+    metadata:
+      labels:
+        app: elasticsearch
+    spec:
+      containers:
+        - name: elasticsearch
+          image: docker.elastic.co/elasticsearch/elasticsearch:8.10.0
+          ports:
+            - containerPort: 9200
+              name: http
+            - containerPort: 9300
+              name: transport
+          env:
+            # For a single-node setup, enable discovery.type: single-node
+            - name: discovery.type
+              value: "single-node"  # Remove this line for multi-node setup
+            
+            # For a multi-node setup, define the initial master nodes
+            # Uncomment the following section for a multi-node setup
+            # - name: cluster.initial_master_nodes
+            #   value: "elasticsearch-0,elasticsearch-1,elasticsearch-2"
+            
+            - name: ES_JAVA_OPTS
+              value: "-Xms512m -Xmx512m"
+          volumeMounts:
+            - name: elasticsearch-data
+              mountPath: /usr/share/elasticsearch/data
+  volumeClaimTemplates:
+    - metadata:
+        name: elasticsearch-data
+      spec:
+        accessModes: ["ReadWriteOnce"]
+        resources:
+          requests:
+            storage: 5Gi

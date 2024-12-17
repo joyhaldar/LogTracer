@@ -1,0 +1,32 @@
+name: Build and Deploy Applications
+
+on:
+  workflow_run:
+    workflows: ["Deploy Kafka Cluster"]
+    types:
+      - completed
+
+jobs:
+  build-and-deploy:
+    if: ${{ github.event.workflow_run.conclusion == 'success' && contains(github.event.workflow_run.pull_requests.*.files, ['service-a/', 'service-b/']) }}
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v3
+
+    - name: Build Docker Images
+      run: |
+        docker build -t my-org/service-a:latest service-a/
+        docker build -t my-org/service-b:latest service-b/
+
+    - name: Push Docker Images
+      run: |
+        docker push my-org/service-a:latest
+        docker push my-org/service-b:latest
+
+    - name: Deploy Service A
+      run: kubectl apply -f service-a/manifests/deployment.yaml
+
+    - name: Deploy Service B
+      run: kubectl apply -f service-b/manifests/deployment.yaml

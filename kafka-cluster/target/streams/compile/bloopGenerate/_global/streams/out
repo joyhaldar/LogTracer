@@ -1,0 +1,4 @@
+[debug] [kafka-cluster] Classpath dependencies List()
+[debug] [kafka-cluster] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'kafka-cluster' to '/Users/joyhaldar/Documents/GitHub/LogTracer/kafka-cluster/.bloop/kafka-cluster.json'
+[success] Generated .bloop/kafka-cluster.json
